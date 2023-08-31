@@ -1,5 +1,2 @@
-<html>
-<body>
-<p>This is my 6th post</p>
-</body>
-</html>
+
+title: This is another post
