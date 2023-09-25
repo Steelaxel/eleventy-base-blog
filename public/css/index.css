@@ -14,7 +14,7 @@
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #000000;
-	--text-color-link-active: #000000;
+	--text-color-link-active: #313131;
 	--text-color-link-visited: #ffc400;
 
 	--syntax-tab-size: 2;
@@ -23,7 +23,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--color-gray-20: #ffc400;
-		--color-gray-50: #ffc400;
+		--color-gray-50: #3c3c3c;
 		--color-gray-90: #323232;
 
 		/* --text-color is assigned to --color-gray-_ above */
