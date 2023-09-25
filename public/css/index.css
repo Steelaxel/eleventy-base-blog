@@ -13,9 +13,9 @@
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link: #000000;
+	--text-color-link-active: #000000;
+	--text-color-link-visited: #ffc400;
 
 	--syntax-tab-size: 2;
 }
@@ -27,11 +27,11 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #ffc400;
+		--text-color-link: #000000;
 		--text-color-link-active: #000000;
 		--text-color-link-visited: #ffc400;
 
-		--background-color: #15202b;
+		--background-color: #ffffff;
 	}
 }
 
@@ -151,7 +151,7 @@ header {
 	padding: 1em;
 }
 .home-link {
-	font-size: 1em; /* 16px /16 */
+	font-size: 3em; /* 16px /16 */
 	font-weight: 700;
 	margin-right: 2em;
 }
