@@ -24,7 +24,7 @@
 	:root {
 		--color-gray-20: #ffc400;
 		--color-gray-50: #ffc400;
-		--color-gray-90: #ffc400;
+		--color-gray-90: #323232;
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: #000000;
