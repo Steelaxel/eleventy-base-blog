@@ -1,7 +1,8 @@
+---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
-  order: 3
+  key: Contact Me
+  order: 4
 ---
 # Contact me
 

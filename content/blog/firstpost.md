@@ -1,26 +1,12 @@
 ---
 title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+description: Doing my first blog post of a netlify server
+date: 2023-09-02
 tags:
-  - another tag
+  - Updates
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hello world. I'm just writing to say hello as this is my first post using netlify. It has been quite an exciting journey and can't believe I can now build a static site. It has been quite intereting to see how fast I could build a site up with the help of 11ty.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Learning curves
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
-
- // Test with a line break above this line.
- console.log('Test');
-```
+This is my first time using something like this so there has been some learning curves. However, with the help of the Coders Guild, I now have a site that is now up and running. It has been very interesting to see the changes I have made and get the overview on Github desktop. From there, I can commit changes, then voila! Changes are made quick and easy!
