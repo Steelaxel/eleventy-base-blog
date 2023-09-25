@@ -1,8 +1,8 @@
 module.exports = {
 	title: "My first blog",
-	url: "https://example.com/",
+	url: "https://subtle-mermaid-2bda43.netlify.app/about/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "My first blog about my coding journey.",
 	author: {
 		name: "Jessica",
 		email: "youremailaddress@example.com",
