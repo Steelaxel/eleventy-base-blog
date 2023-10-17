@@ -9,6 +9,4 @@ tags:
 ---
 In the session of programming concepts. We learnt about variables, data types, using the console and arithmetic operators. The takeaway task was to create a tip calculator that shows the percentage of the tip alongside the total. I will link my example through my codepen.
 
-let text = "Tip calculator example";
-let result = text.link("https://codepen.io/Steelaxel/pen/ZEVNggJ");
-
+<a href="https://codepen.io/Steelaxel/pen/ZEVNggJ">Tip calculator example</a>
