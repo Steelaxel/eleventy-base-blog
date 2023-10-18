@@ -5,7 +5,7 @@ tags:
   - Codepen
 ---
 <style>
-      div {
+      body {
          width: 800px;
       }
 </style>
