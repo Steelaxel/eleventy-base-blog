@@ -6,7 +6,7 @@ tags:
 ---
 <style>
       div {
-         width: max-content;
+         width: 100px;
       }
 </style>
 In the session for pseudocode we learnt how it is applied to help developers understand and draft solutions to assist with problem solving. Here we were given challenges on how we would write pseudocode for different situations. 
