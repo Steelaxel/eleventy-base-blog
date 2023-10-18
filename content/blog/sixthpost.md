@@ -4,12 +4,7 @@ date: 2023-09-08
 tags:
   - Codepen
 ---
-<style>
-      body {
-        padding: 800px;
-        width: fit-content;
-      }
-</style>
+
 In the session for pseudocode we learnt how it is applied to help developers understand and draft solutions to assist with problem solving. Here we were given challenges on how we would write pseudocode for different situations. 
 
 <a href= "https://codepen.io/Steelaxel/pen/RwEzGKB">Here are some examples</a>
