@@ -15,7 +15,7 @@ In the session for pseudocode we learnt how it is applied to help developers und
 <a href= "https://codepen.io/Steelaxel/pen/RwEzGKB">Here are some examples</a>
 
 <div class="box">
-<pre>
+
 Task 1 - Reading List
 Declare listofbooks - a list of books containing information as title(string), author(string), already read (a boolean (true/false) if already read or on reading list)
 
@@ -24,7 +24,7 @@ IF currentBook has been read (true)
 Print "Book already read {title} by the following {author}"
 ELSE
 Print "Book is still in reading list {title} by the following {author}"
-</pre>
+
 </div>
 
 <div class="box">
