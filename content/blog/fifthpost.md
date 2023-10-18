@@ -6,7 +6,10 @@ tags: Codepen
 In this session we extended our learning on control flow. We also had some task to test our understanding of it with the following tasks.
 
 <a href="https://codepen.io/Steelaxel/pen/eYbwojB?editors=1111"> Task 1 - Percentage Calculator</a>
-*/ const inputNumber = prompt('Please enter a number')
+<div class="box">
+<pre>
+
+const inputNumber = prompt('Please enter a number')
 const inputPercentage = prompt('Please enter a percentage')
       
 percentageCalculator = (inputNum, inputPerc) => {
@@ -17,10 +20,12 @@ percentageCalculator = (inputNum, inputPerc) => {
       
 var value = percentageCalculator(inputNumber, inputPercentage)
 console.log(value);
-/*
+</pre>
+</div>
 
 <a href= "https://codepen.io/Steelaxel/pen/ZEVdZNL"> Task 2 - Switch Statement</a>
-*/
+<div class="box">
+<pre>
 const arrSize = ["Small", "Medium", "Large"];
 const arrFlavour = ["cola", "lemon", "orange"];
 
@@ -55,10 +60,12 @@ drinkOrder = (size, drink) => {
 };
 
 drinkOrder(inputSize, inputFlavour);
-/*
+</pre>
+</div>
 
 <a href= "https://codepen.io/Steelaxel/pen/poqXmzE"> Task 3 - Calculator</a>
-*/
+<div class="box">
+<pre>
 const number1 = prompt('Please enter number')
       const number2 = prompt('Please enter number')
       const operator = prompt('Please enter operator')
@@ -82,4 +89,5 @@ function calculator(number1, number2, operator) {
 }
 
 alert(calculator(number1,number2,operator))
-/*
+</pre>
+</div>
