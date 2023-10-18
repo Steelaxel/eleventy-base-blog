@@ -6,7 +6,8 @@ tags:
 ---
 <style>
       body {
-         width: 800px;
+        padding: 800px;
+        width: fit-content;
       }
 </style>
 In the session for pseudocode we learnt how it is applied to help developers understand and draft solutions to assist with problem solving. Here we were given challenges on how we would write pseudocode for different situations. 
