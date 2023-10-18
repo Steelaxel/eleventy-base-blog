@@ -10,14 +10,12 @@ In this session we extended our learning on control flow. We also had some task 
 <pre>
 
 const inputNumber = prompt('Please enter a number')
-const inputPercentage = prompt('Please enter a percentage')
-      
+const inputPercentage = prompt('Please enter a percentage')     
 percentageCalculator = (inputNum, inputPerc) => {
   if (inputNum && inputPerc) {
     return inputNum * inputPerc / 100
   }
-}
-      
+}     
 var value = percentageCalculator(inputNumber, inputPercentage)
 console.log(value);
 </pre>
@@ -28,13 +26,10 @@ console.log(value);
 <pre>
 const arrSize = ["Small", "Medium", "Large"];
 const arrFlavour = ["cola", "lemon", "orange"];
-
 const inputSize = prompt("Please enter a Size");
 const inputFlavour = prompt("Please enter a Flavour");
-
 drinkOrder = (size, drink) => {
   let drinkLabel;
-
   if (!arrSize.find((a) => a.toLowerCase() === size.toLowerCase())) {
     alert("Please select available size");
   } else if (!arrFlavour.find((f) => f.toLowerCase() === drink.toLowerCase())) {
@@ -54,11 +49,9 @@ drinkOrder = (size, drink) => {
         drinkLabel = "Cola";
         break;
     }
-
     alert(`You have ordered a ${size} ${drinkLabel}.`);
   }
 };
-
 drinkOrder(inputSize, inputFlavour);
 </pre>
 </div>
@@ -69,7 +62,6 @@ drinkOrder(inputSize, inputFlavour);
 const number1 = prompt('Please enter number')
       const number2 = prompt('Please enter number')
       const operator = prompt('Please enter operator')
-
 function calculator(number1, number2, operator) {
   switch (operator) {
     case "+":
@@ -87,7 +79,6 @@ function calculator(number1, number2, operator) {
       return "Invalid operator";
   }
 }
-
 alert(calculator(number1,number2,operator))
 </pre>
 </div>
