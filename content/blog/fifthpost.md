@@ -3,7 +3,13 @@ title: Intro to JS Practicals
 date: 2023-09-07
 tags: Codepen
 ---
-In this session we extended our learning on control flow. We also had some task to test our understanding of it with the following tasks.
+In this session we extended our learning on control flow.
+Loops - Are an easy way to do something repeatedly
+Arrays - Can store items under a single variable name
+Objects - This is used to store various collections of properties
+
+Here are some examples of we demonstrated our knowledge of the fundamentals of javascript.
+We also had some task to test our understanding of it with the following tasks.
 
 <a href="https://codepen.io/Steelaxel/pen/eYbwojB?editors=1111"> Task 1 - Percentage Calculator</a>
 <div class="box">
